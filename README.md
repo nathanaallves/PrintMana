@@ -71,7 +71,7 @@ flowchart TD
     style B fill:#e91e63,stroke:#fff,color:#fff
     style E fill:#ff9800,stroke:#fff,color:#000
     style H fill:#4caf50,stroke:#fff,color:#fff
-
+```
 ## Prints do Processo
 
 | Etapa                                    | Print               |
