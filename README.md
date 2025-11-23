@@ -1,6 +1,7 @@
 # PrintMana – Controle Inteligente de Outsourcing de Impressoras  
 **Azure Frontier Girls – Build Your First Copilot Challenge**  
 Entrega individual – 23/11/2025
+Autora: Nathana Alves
 
 ## Objetivo do Agente
 Assistente corporativo que controla o consumo de impressões por setor (RH, TI, Comercial, Financeiro), calcula excedentes do contrato de outsourcing e gera automaticamente:
