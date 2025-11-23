@@ -19,16 +19,16 @@ Assistente corporativo que controla o consumo de impressões por setor (RH, TI, 
 
 ## Prints do Processo
 
-| Etapa                                    | Print                  |
-|------------------------------------------|------------------------|
-| Criação do projeto Foundry               | ![01-projeto]          |
-| Instruções completas                     | ![02-instrucoes]       |
-| Tool Code Interpreter ativada            | ![03-tool]             |
-| Teste 1 – Dentro da cota (9.000 páginas) | ![04-normal]           |
-| Teste 2 – Com excedente + e-mail + gráfico | ![05-excedente]      |
-| Gráfico gerado automaticamente           | ![06-grafico]          |
-| E-mail de alerta gerado                  | ![07-email]            |
-| Recursos deletados (zero custo)          | ![08-delete]           |
+| Etapa                                    | Print               |
+|------------------------------------------|---------------------|
+| Criação do projeto Foundry               | 01-projeto          |
+| Instruções completas                     | 02-instrucoes       |
+| Tool Code Interpreter ativada            | 03-tool             |
+| Teste 1 – Dentro da cota (9.000 páginas) | 04-normal           |
+| Teste 2 – Com excedente + e-mail + gráfico | 05-excedente      |
+| Gráfico gerado automaticamente           | 06-grafico          |
+| E-mail de alerta gerado                  | 07-email            |
+
 
 ## Demonstração Real – Mês com excedente (13.600 páginas)
 
