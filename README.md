@@ -22,6 +22,8 @@ Assistente corporativo que controla o consumo de impressões por setor (RH, TI, 
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c9722012-2b83-484e-8978-9dec4fcb9efa" />
 
+
+### Etapas do Projeto 
 | Etapa                                    | Print               |
 |------------------------------------------|---------------------|
 | Criação do projeto Foundry               | 01-projeto          |
