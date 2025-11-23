@@ -1,6 +1,7 @@
 # PrintMana – Controle Inteligente de Outsourcing de Impressoras  
 **Azure Frontier Girls – Build Your First Copilot Challenge**  
 Entrega individual – 23/11/2025
+
 Autora: Nathana Alves
 
 ## Objetivo do Agente
